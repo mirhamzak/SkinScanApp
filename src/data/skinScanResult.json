@@ -1,0 +1,53 @@
+{
+  "scanResult": {
+    "status": "success",
+    "summary": "Your skin shows signs of dryness and uneven tone. UV protection is recommended.",
+    "statistics": {
+      "Skin elasticity": 65,
+      "Wrinkles": 75,
+      "Acne": 50,
+      "Baldness": 50
+    },
+    "severity":40,
+    "age":25,
+    "recommendationsWrinkles": [
+      {
+        "id": 1,
+        "name": "Cetaphil Gentle Cleanser",
+        "description": "Gently removes impurities and prepares your skin to absorb active ingredients, promoting smoother texture and hydration."
+      },
+      {
+        "id": 2,
+        "name": "Retinol Men Serum",
+        "description": "Packed with anti-aging ingredients like hyaluronic acid and peptides to boost collagen production and reduce the appearance of fine lines."
+      },
+      {
+        "id": 3,
+        "name": "Olay Age Protect Moisturizer",
+        "description": "Deeply hydrates the skin, improving elasticity and plumping up wrinkles for a more youthful appearance."
+      },
+      {
+        "id": 4,
+        "name": "La Roche Pose 50+ Sunscreen",
+        "description": "Shields your skin from UV damage, preventing premature aging and helping maintain wrinkle-free skin"
+      }
+    ],
+    "recommendationsBaldness": [
+      {
+        "id": 1,
+        "name": "TRESemmé Scalp Detox Shampoo",
+        "description": "Gently cleanses the scalp, removing buildup and excess oil to create a healthy environment for hair growth."
+      },
+      {
+        "id": 2,
+        "name": "The Ordinary Serum For Hair",
+        "description": "Lightweight serum enriched with active ingredients to boost hair follicles and prevent further thinning."
+      },
+      {
+        "id": 3,
+        "name": "Scalp massage tool",
+        "description": "Stimulates blood circulation to the scalp, enhancing serum absorption and supporting natural hair regrowth."
+      }
+    ]
+  }
+}

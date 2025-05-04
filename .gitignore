@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+
+# React Native
+android/
+ios/
+*.xcodeproj
+*.xcworkspace
+*.log
+*.lock
+build/
+*.hmap
+*.idea/
+*.vscode/
+
+# Environment files
+.env
+.env.* 
+
+# Debugger
+*.bak
+*.swp
+*.swo
+*.sublime-workspace
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Expo
+.expo/
+.expo-shared/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# JetBrains
+.idea/
